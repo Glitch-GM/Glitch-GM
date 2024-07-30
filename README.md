@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Glitch-GM<br>👀 I’m interested in Front-End Development<br>🌱 I’m currently learning css,js<br>📫 How to reach me gulshanmurmu23@gmail.com<br>⚡ Fun fact: I am also a part time editor
+👋 Hi, I’m @Glitch-GM<br>👀 I’m interested in Front-End Development<br>🌱 I’m currently learning js<br>📫 How to reach me gulshanmurmu23@gmail.com<br>⚡ Fun fact: I am also a part time editor
 
 
 ## 🌐 Socials:
